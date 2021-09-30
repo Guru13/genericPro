@@ -11,6 +11,6 @@ public class Main {
         System.out.println("half----" + em.half(10));
 
         System.out.println("multy----" + em.multiply1(11, 10));
-//        System.out.println("multy----" + em.multiply1(5, 20));
+        System.out.println("multy4----" + em.multiply4(5, 20));
     }
 }
